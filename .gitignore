@@ -2,4 +2,4 @@
 .pytest_cache
 N3149_ШитыйИА_ЛР6.pdf
 __pycache__
-.DS_Store .git .gitignore .pytest_cache
+.gitignore
